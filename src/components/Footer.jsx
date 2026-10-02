@@ -54,16 +54,16 @@ export default function Footer() {
 
         {/* Right Side: Social Links */}
         <div className="flex flex-col md:flex-row items-end md:items-center gap-6 md:gap-10 shrink-0">
-          <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="text-white text-[10px] font-sans tracking-[0.2em] uppercase hover:text-neutral-500 transition-colors">
+          <a href="https://www.linkedin.com/in/khushkothari" target="_blank" rel="noopener noreferrer" className="text-white text-[10px] font-sans tracking-[0.2em] uppercase hover:text-neutral-500 transition-colors">
             LinkedIn
           </a>
-          <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="text-white text-[10px] font-sans tracking-[0.2em] uppercase hover:text-neutral-500 transition-colors">
+          <a href="https://github.com/khussh3105" target="_blank" rel="noopener noreferrer" className="text-white text-[10px] font-sans tracking-[0.2em] uppercase hover:text-neutral-500 transition-colors">
             GitHub
           </a>
-          <a href="https://leetcode.com" target="_blank" rel="noopener noreferrer" className="text-white text-[10px] font-sans tracking-[0.2em] uppercase hover:text-neutral-500 transition-colors">
+          <a href="https://leetcode.com/u/khussh3105/" target="_blank" rel="noopener noreferrer" className="text-white text-[10px] font-sans tracking-[0.2em] uppercase hover:text-neutral-500 transition-colors">
             LeetCode
           </a>
-          <a href="mailto:hello@khushkothari.com" className="text-white text-[10px] font-sans tracking-[0.2em] uppercase hover:text-neutral-500 transition-colors">
+          <a href="mailto:kotkhussh@gmail.com" className="text-white text-[10px] font-sans tracking-[0.2em] uppercase hover:text-neutral-500 transition-colors">
             Email
           </a>
         </div>
