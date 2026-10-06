@@ -13,7 +13,7 @@ const terminalScript = `> init_comm_link --target khush_kothari
   ROLE     :: Full-Stack Engineer / UI/UX
   LOCATION :: India
 --------------------------------------------------
-  EMAIL    :: hello@khushkothari.com
+  EMAIL    :: kotkhussh@gmail.com
   LINKEDIN :: linkedin.com/in/khushkothari
   GITHUB   :: github.com/khushkothari
 --------------------------------------------------
