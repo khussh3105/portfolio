@@ -32,7 +32,7 @@ export default function About({ id }) {
                 Current Operation
               </div>
               <div className="text-white font-sans uppercase tracking-widest text-sm">
-                Masters of Computer Science
+                Master of Computer Science
               </div>
               <div className="text-neutral-400 font-sans text-xs uppercase tracking-widest leading-relaxed">
                 University of Sydney, Australia <br/>
