@@ -45,10 +45,10 @@ export default function Contact({ id }) {
         if (currentIndex > terminalScript.length) {
           clearInterval(typingInterval);
           
-          // Wait 5 seconds after finishing, then restart
+          // Wait 15 seconds after finishing, then restart
           pauseTimeout = setTimeout(() => {
             runTerminalSequence();
-          }, 5000);
+          }, 15000);
         }
       }, 15);
     };

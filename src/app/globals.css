@@ -26,7 +26,7 @@ body {
 .bg-grid-dark {
   background-color: #000000;
   color: #ffffff;
-  background-image: url("data:image/svg+xml,%3Csvg width='160' height='160' xmlns='http://www.w3.org/2000/svg'%3E%3Ccircle cx='80' cy='80' r='1.5' fill='%23ffffff' fill-opacity='0.15'/%3E%3C/svg%3E");
+  background-image: url("data:image/svg+xml,%3Csvg width='160' height='160' xmlns='http://www.w3.org/2000/svg'%3E%3Ccircle cx='80' cy='80' r='1.5' fill='%23ffffff' fill-opacity='0.4'/%3E%3C/svg%3E");
   background-position: center top;
 }
 
@@ -34,6 +34,6 @@ body {
   /* Subtle off-white to make the dark sections pop */
   background-color: #f5f5f5; 
   color: #000000;
-  background-image: url("data:image/svg+xml,%3Csvg width='160' height='160' xmlns='http://www.w3.org/2000/svg'%3E%3Ccircle cx='80' cy='80' r='1.5' fill='%23000000' fill-opacity='0.08'/%3E%3C/svg%3E");
+  background-image: url("data:image/svg+xml,%3Csvg width='160' height='160' xmlns='http://www.w3.org/2000/svg'%3E%3Ccircle cx='80' cy='80' r='1.5' fill='%23000000' fill-opacity='0.2'/%3E%3C/svg%3E");
   background-position: center top;
 }
